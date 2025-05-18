@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.webflux.client.max-memory-size",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.webflux.client.max-memory-size'"
+}]}
